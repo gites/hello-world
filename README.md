@@ -12,9 +12,3 @@ bla bla bla
 more-bla-bla
 ===========
 bla bla bla
-
-daadada
-
-daadaa
-cxczczczr
-asdaa
